@@ -1,4 +1,4 @@
-# scala
+# scala practice
 Simulates a file system with a couple of commands.
 
 Commands that have been implemented:
